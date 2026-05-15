@@ -215,4 +215,3 @@ Press `Ctrl+c` (both keys together) or `Ctrl+Z` then `Enter` on Windows.
 ```
 
 ![VS Code When Running](./docs/images/vscode_when_running.png)
-
