@@ -1,5 +1,27 @@
 # datafun-02-automation
 
+## Project Run Notes
+- Activated virtual environment with `.\.venv\Scripts\Activate.ps1`
+- Installed dependencies using `uv sync`
+- Ran the module with `uv run python -m datafun.app_case`
+- Verified successful execution and file outputs
+
+
+## Project Commands Summary
+- `Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned`
+- `.\.venv\Scripts\Activate.ps1`
+- `uv sync`
+- `uv cache clean`
+- `uv sync --extra dev --extra docs --upgrade`
+- `uv run python -m datafun.app_case`
+
+
+## Project Purpose
+This project demonstrates Python automation fundamentals using loops, file creation, and logging.
+It serves as a learning exercise for building structured, repeatable workflows with clean code organization inside the `src/datafun` package.
+
+
+
 [![Workflow Guide](https://img.shields.io/badge/Pro--Guide-pro--analytics--02-green)](https://denisecase.github.io/pro-analytics-02/workflow-b-apply-example-project/)
 [![Python 3.14](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](./pyproject.toml)
 [![MIT](https://img.shields.io/badge/license-see%20LICENSE-yellow.svg)](./LICENSE)
@@ -193,3 +215,4 @@ Press `Ctrl+c` (both keys together) or `Ctrl+Z` then `Enter` on Windows.
 ```
 
 ![VS Code When Running](./docs/images/vscode_when_running.png)
+
