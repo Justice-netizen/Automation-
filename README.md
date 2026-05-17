@@ -1,4 +1,4 @@
-# datafun-02-automation
+#Automation
 
 ## Project Run Notes
 - Activated virtual environment with `.\.venv\Scripts\Activate.ps1`
