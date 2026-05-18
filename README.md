@@ -1,4 +1,40 @@
 #Automation
+# MOS Mapper – Automated MOS Analytics Engine
+
+## Overview
+MOS Mapper is a Python automation tool that processes Army MOS data and generates:
+
+- MOS‑specific reports
+- Salary summaries
+- Skill summaries
+- Job market summaries
+- Visual charts (bar, pie, comparison)
+
+It is designed to help transitioning Soldiers understand how their MOS translates into civilian opportunities.
+
+## Sample Charts
+
+### Average Salary Chart
+![Average Salary](screenshots/ave_salary.png)
+
+### Salary by MOS Chart
+![Salary by MOS](screenshots/salary_mos.png)
+
+
+---
+
+## Features
+- Automatic MOS report generation
+- Salary, skill, and job summaries
+- Bar charts and pie charts for each category
+- Clean logging system
+- Fully automated pipeline using `uv run python -m datafun.app_mos_mapper`
+
+---
+
+## How to Run
+```powershell
+uv run python -m datafun.app_mos_mapper
 
 ## Project Run Notes
 - Activated virtual environment with `.\.venv\Scripts\Activate.ps1`

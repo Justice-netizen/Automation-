@@ -293,3 +293,544 @@
 2026-05-15 06:44:04 | INFO | P02 | ========================
 2026-05-15 06:44:04 | INFO | P02 | Executed successfully!
 2026-05-15 06:44:04 | INFO | P02 | ========================
+2026-05-18 05:44:26 | INFO | MOS | === RUN START ===
+2026-05-18 05:44:26 | INFO | MOS | project=MOS MAPPER
+2026-05-18 05:44:26 | INFO | MOS | repo_dir=Automation-
+2026-05-18 05:44:26 | INFO | MOS | python=3.14.5
+2026-05-18 05:44:27 | INFO | MOS | os=Windows 11
+2026-05-18 05:44:27 | INFO | MOS | shell=powershell
+2026-05-18 05:44:27 | INFO | MOS | cwd=.
+2026-05-18 05:44:27 | INFO | MOS | github_actions=False
+2026-05-18 05:44:27 | INFO | MOS | ========================
+2026-05-18 05:44:27 | INFO | MOS | START main()
+2026-05-18 05:44:27 | INFO | MOS | ========================
+2026-05-18 05:44:27 | INFO | MOS | ========================
+2026-05-18 05:44:27 | INFO | MOS | Executed successfully!
+2026-05-18 05:44:27 | INFO | MOS | ========================
+2026-05-18 05:49:02 | INFO | MOS | === RUN START ===
+2026-05-18 05:49:02 | INFO | MOS | project=MOS MAPPER
+2026-05-18 05:49:02 | INFO | MOS | repo_dir=Automation-
+2026-05-18 05:49:02 | INFO | MOS | python=3.14.5
+2026-05-18 05:49:02 | INFO | MOS | os=Windows 11
+2026-05-18 05:49:02 | INFO | MOS | shell=powershell
+2026-05-18 05:49:03 | INFO | MOS | cwd=.
+2026-05-18 05:49:03 | INFO | MOS | github_actions=False
+2026-05-18 05:49:03 | INFO | MOS | ========================
+2026-05-18 05:49:03 | INFO | MOS | START main()
+2026-05-18 05:49:03 | INFO | MOS | ========================
+2026-05-18 05:49:03 | INFO | MOS | ========================
+2026-05-18 05:49:03 | INFO | MOS | FUNCTION 1: generate_mos_reports()
+2026-05-18 05:49:03 | INFO | MOS | ========================
+2026-05-18 05:49:03 | INFO | MOS | Wrote file: mos_92F.txt
+2026-05-18 05:49:03 | INFO | MOS | Wrote file: mos_42A.txt
+2026-05-18 05:49:03 | INFO | MOS | Wrote file: mos_25B.txt
+2026-05-18 05:49:03 | INFO | MOS | Wrote file: mos_68W.txt
+2026-05-18 05:49:03 | INFO | MOS | Wrote file: mos_36B.txt
+2026-05-18 05:49:03 | INFO | MOS | ========================
+2026-05-18 05:49:03 | INFO | MOS | Executed successfully!
+2026-05-18 05:49:03 | INFO | MOS | ========================
+2026-05-18 05:53:14 | INFO | MOS | === RUN START ===
+2026-05-18 05:53:14 | INFO | MOS | project=MOS MAPPER
+2026-05-18 05:53:14 | INFO | MOS | repo_dir=Automation-
+2026-05-18 05:53:14 | INFO | MOS | python=3.14.5
+2026-05-18 05:53:14 | INFO | MOS | os=Windows 11
+2026-05-18 05:53:14 | INFO | MOS | shell=powershell
+2026-05-18 05:53:14 | INFO | MOS | cwd=.
+2026-05-18 05:53:14 | INFO | MOS | github_actions=False
+2026-05-18 05:53:14 | INFO | MOS | ========================
+2026-05-18 05:53:14 | INFO | MOS | START main()
+2026-05-18 05:53:14 | INFO | MOS | ========================
+2026-05-18 05:53:14 | INFO | MOS | ========================
+2026-05-18 05:53:14 | INFO | MOS | FUNCTION 1: generate_mos_reports()
+2026-05-18 05:53:14 | INFO | MOS | ========================
+2026-05-18 05:53:14 | INFO | MOS | Wrote file: mos_92F.txt
+2026-05-18 05:53:14 | INFO | MOS | Wrote file: mos_42A.txt
+2026-05-18 05:53:14 | INFO | MOS | Wrote file: mos_25B.txt
+2026-05-18 05:53:14 | INFO | MOS | Wrote file: mos_68W.txt
+2026-05-18 05:53:14 | INFO | MOS | Wrote file: mos_36B.txt
+2026-05-18 05:53:14 | INFO | MOS | ========================
+2026-05-18 05:53:14 | INFO | MOS | FUNCTION 2: generate_salary_summary()
+2026-05-18 05:53:14 | INFO | MOS | ========================
+2026-05-18 05:53:14 | INFO | MOS | Wrote file: mos_salary_summary.txt
+2026-05-18 05:53:14 | INFO | MOS | ========================
+2026-05-18 05:53:14 | INFO | MOS | Executed successfully!
+2026-05-18 05:53:14 | INFO | MOS | ========================
+2026-05-18 05:58:48 | INFO | MOS | === RUN START ===
+2026-05-18 05:58:48 | INFO | MOS | project=MOS MAPPER
+2026-05-18 05:58:48 | INFO | MOS | repo_dir=Automation-
+2026-05-18 05:58:48 | INFO | MOS | python=3.14.5
+2026-05-18 05:58:48 | INFO | MOS | os=Windows 11
+2026-05-18 05:58:48 | INFO | MOS | shell=powershell
+2026-05-18 05:58:48 | INFO | MOS | cwd=.
+2026-05-18 05:58:48 | INFO | MOS | github_actions=False
+2026-05-18 05:58:48 | INFO | MOS | ========================
+2026-05-18 05:58:48 | INFO | MOS | START main()
+2026-05-18 05:58:48 | INFO | MOS | ========================
+2026-05-18 05:58:48 | INFO | MOS | ========================
+2026-05-18 05:58:48 | INFO | MOS | FUNCTION 1: generate_mos_reports()
+2026-05-18 05:58:48 | INFO | MOS | ========================
+2026-05-18 05:58:48 | INFO | MOS | Wrote file: mos_92F.txt
+2026-05-18 05:58:48 | INFO | MOS | Wrote file: mos_42A.txt
+2026-05-18 05:58:48 | INFO | MOS | Wrote file: mos_25B.txt
+2026-05-18 05:58:48 | INFO | MOS | Wrote file: mos_68W.txt
+2026-05-18 05:58:48 | INFO | MOS | Wrote file: mos_36B.txt
+2026-05-18 05:58:48 | INFO | MOS | ========================
+2026-05-18 05:58:48 | INFO | MOS | FUNCTION 2: generate_salary_summary()
+2026-05-18 05:58:48 | INFO | MOS | ========================
+2026-05-18 05:58:48 | INFO | MOS | Wrote file: mos_salary_summary.txt
+2026-05-18 05:58:48 | INFO | MOS | ========================
+2026-05-18 05:58:48 | INFO | MOS | FUNCTION 3: generate_skill_summary()
+2026-05-18 05:58:48 | INFO | MOS | ========================
+2026-05-18 05:58:48 | INFO | MOS | Wrote file: mos_skill_summary.txt
+2026-05-18 05:58:48 | INFO | MOS | ========================
+2026-05-18 05:58:48 | INFO | MOS | Executed successfully!
+2026-05-18 05:58:48 | INFO | MOS | ========================
+2026-05-18 06:02:21 | INFO | MOS | === RUN START ===
+2026-05-18 06:02:21 | INFO | MOS | project=MOS MAPPER
+2026-05-18 06:02:21 | INFO | MOS | repo_dir=Automation-
+2026-05-18 06:02:21 | INFO | MOS | python=3.14.5
+2026-05-18 06:02:21 | INFO | MOS | os=Windows 11
+2026-05-18 06:02:21 | INFO | MOS | shell=powershell
+2026-05-18 06:02:21 | INFO | MOS | cwd=.
+2026-05-18 06:02:21 | INFO | MOS | github_actions=False
+2026-05-18 06:02:21 | INFO | MOS | ========================
+2026-05-18 06:02:21 | INFO | MOS | START main()
+2026-05-18 06:02:21 | INFO | MOS | ========================
+2026-05-18 06:02:21 | INFO | MOS | ========================
+2026-05-18 06:02:21 | INFO | MOS | FUNCTION 1: generate_mos_reports()
+2026-05-18 06:02:21 | INFO | MOS | ========================
+2026-05-18 06:02:21 | INFO | MOS | Wrote file: mos_92F.txt
+2026-05-18 06:02:21 | INFO | MOS | Wrote file: mos_42A.txt
+2026-05-18 06:02:21 | INFO | MOS | Wrote file: mos_25B.txt
+2026-05-18 06:02:21 | INFO | MOS | Wrote file: mos_68W.txt
+2026-05-18 06:02:21 | INFO | MOS | Wrote file: mos_36B.txt
+2026-05-18 06:02:21 | INFO | MOS | ========================
+2026-05-18 06:02:21 | INFO | MOS | FUNCTION 2: generate_salary_summary()
+2026-05-18 06:02:21 | INFO | MOS | ========================
+2026-05-18 06:02:21 | INFO | MOS | Wrote file: mos_salary_summary.txt
+2026-05-18 06:02:21 | INFO | MOS | ========================
+2026-05-18 06:02:21 | INFO | MOS | FUNCTION 3: generate_skill_summary()
+2026-05-18 06:02:21 | INFO | MOS | ========================
+2026-05-18 06:02:21 | INFO | MOS | Wrote file: mos_skill_summary.txt
+2026-05-18 06:02:21 | INFO | MOS | ========================
+2026-05-18 06:02:21 | INFO | MOS | FUNCTION 4: generate_job_summary()
+2026-05-18 06:02:21 | INFO | MOS | ========================
+2026-05-18 06:02:21 | INFO | MOS | Wrote file: mos_job_summary.txt
+2026-05-18 06:02:21 | INFO | MOS | ========================
+2026-05-18 06:02:21 | INFO | MOS | Executed successfully!
+2026-05-18 06:02:21 | INFO | MOS | ========================
+2026-05-18 06:15:05 | INFO | MOS | === RUN START ===
+2026-05-18 06:15:05 | INFO | MOS | project=MOS MAPPER
+2026-05-18 06:15:05 | INFO | MOS | repo_dir=Automation-
+2026-05-18 06:15:05 | INFO | MOS | python=3.14.5
+2026-05-18 06:15:06 | INFO | MOS | os=Windows 11
+2026-05-18 06:15:06 | INFO | MOS | shell=powershell
+2026-05-18 06:15:06 | INFO | MOS | cwd=.
+2026-05-18 06:15:06 | INFO | MOS | github_actions=False
+2026-05-18 06:15:06 | INFO | MOS | ========================
+2026-05-18 06:15:06 | INFO | MOS | START main()
+2026-05-18 06:15:06 | INFO | MOS | ========================
+2026-05-18 06:15:06 | INFO | MOS | ========================
+2026-05-18 06:15:06 | INFO | MOS | FUNCTION 1: generate_mos_reports()
+2026-05-18 06:15:06 | INFO | MOS | ========================
+2026-05-18 06:15:06 | INFO | MOS | Wrote file: mos_92F.txt
+2026-05-18 06:15:06 | INFO | MOS | Wrote file: mos_42A.txt
+2026-05-18 06:15:06 | INFO | MOS | Wrote file: mos_25B.txt
+2026-05-18 06:15:06 | INFO | MOS | Wrote file: mos_68W.txt
+2026-05-18 06:15:06 | INFO | MOS | Wrote file: mos_36B.txt
+2026-05-18 06:15:06 | INFO | MOS | ========================
+2026-05-18 06:15:06 | INFO | MOS | FUNCTION 2: generate_salary_summary()
+2026-05-18 06:15:06 | INFO | MOS | ========================
+2026-05-18 06:15:06 | INFO | MOS | Wrote file: mos_salary_summary.txt
+2026-05-18 06:15:06 | INFO | MOS | ========================
+2026-05-18 06:15:06 | INFO | MOS | FUNCTION 3: generate_skill_summary()
+2026-05-18 06:15:06 | INFO | MOS | ========================
+2026-05-18 06:15:06 | INFO | MOS | Wrote file: mos_skill_summary.txt
+2026-05-18 06:15:06 | INFO | MOS | ========================
+2026-05-18 06:15:06 | INFO | MOS | FUNCTION 4: generate_job_summary()
+2026-05-18 06:15:06 | INFO | MOS | ========================
+2026-05-18 06:15:06 | INFO | MOS | Wrote file: mos_job_summary.txt
+2026-05-18 06:15:06 | INFO | MOS | ========================
+2026-05-18 06:15:06 | INFO | MOS | FUNCTION 6: delete_old_case_files()
+2026-05-18 06:15:06 | INFO | MOS | ========================
+2026-05-18 06:15:06 | INFO | MOS | Deleted: case_quarter_1.txt
+2026-05-18 06:15:06 | INFO | MOS | Deleted: case_quarter_2.txt
+2026-05-18 06:15:06 | INFO | MOS | Deleted: case_quarter_3.txt
+2026-05-18 06:15:06 | INFO | MOS | Deleted: case_quarter_4.txt
+2026-05-18 06:15:06 | INFO | MOS | Deleted: case_dog.txt
+2026-05-18 06:15:06 | INFO | MOS | Deleted: case_cat.txt
+2026-05-18 06:15:06 | INFO | MOS | Deleted: case_fish.txt
+2026-05-18 06:15:06 | INFO | MOS | Deleted: case_favorite_dog.txt
+2026-05-18 06:15:06 | INFO | MOS | Deleted: case_favorite_cat.txt
+2026-05-18 06:15:06 | INFO | MOS | Deleted: case_favorite_fish.txt
+2026-05-18 06:15:06 | INFO | MOS | Deleted: case_01.txt
+2026-05-18 06:15:06 | INFO | MOS | Deleted: case_02.txt
+2026-05-18 06:15:06 | INFO | MOS | Deleted: case_03.txt
+2026-05-18 06:15:06 | INFO | MOS | ========================
+2026-05-18 06:15:06 | INFO | MOS | Executed successfully!
+2026-05-18 06:15:06 | INFO | MOS | ========================
+2026-05-18 06:15:06 | INFO | MOS | ========================
+2026-05-18 06:15:06 | INFO | MOS | Executed successfully!
+2026-05-18 06:15:06 | INFO | MOS | ========================
+2026-05-18 06:25:35 | INFO | MOS | === RUN START ===
+2026-05-18 06:25:35 | INFO | MOS | project=MOS MAPPER
+2026-05-18 06:25:35 | INFO | MOS | repo_dir=Automation-
+2026-05-18 06:25:35 | INFO | MOS | python=3.14.5
+2026-05-18 06:25:35 | INFO | MOS | os=Windows 11
+2026-05-18 06:25:35 | INFO | MOS | shell=powershell
+2026-05-18 06:25:35 | INFO | MOS | cwd=.
+2026-05-18 06:25:35 | INFO | MOS | github_actions=False
+2026-05-18 06:25:35 | INFO | MOS | ========================
+2026-05-18 06:25:35 | INFO | MOS | START main()
+2026-05-18 06:25:35 | INFO | MOS | ========================
+2026-05-18 06:25:35 | INFO | MOS | ========================
+2026-05-18 06:25:35 | INFO | MOS | FUNCTION 1: generate_mos_reports()
+2026-05-18 06:25:35 | INFO | MOS | ========================
+2026-05-18 06:25:35 | INFO | MOS | Wrote file: mos_92F.txt
+2026-05-18 06:25:35 | INFO | MOS | Wrote file: mos_42A.txt
+2026-05-18 06:25:35 | INFO | MOS | Wrote file: mos_25B.txt
+2026-05-18 06:25:35 | INFO | MOS | Wrote file: mos_68W.txt
+2026-05-18 06:25:35 | INFO | MOS | Wrote file: mos_36B.txt
+2026-05-18 06:25:35 | INFO | MOS | ========================
+2026-05-18 06:25:35 | INFO | MOS | FUNCTION 2: generate_salary_summary()
+2026-05-18 06:25:35 | INFO | MOS | ========================
+2026-05-18 06:25:35 | INFO | MOS | Wrote file: mos_salary_summary.txt
+2026-05-18 06:25:35 | INFO | MOS | ========================
+2026-05-18 06:25:35 | INFO | MOS | FUNCTION 3: generate_skill_summary()
+2026-05-18 06:25:35 | INFO | MOS | ========================
+2026-05-18 06:25:35 | INFO | MOS | Wrote file: mos_skill_summary.txt
+2026-05-18 06:25:35 | INFO | MOS | ========================
+2026-05-18 06:25:35 | INFO | MOS | FUNCTION 4: generate_job_summary()
+2026-05-18 06:25:35 | INFO | MOS | ========================
+2026-05-18 06:25:35 | INFO | MOS | Wrote file: mos_job_summary.txt
+2026-05-18 06:25:35 | INFO | MOS | ========================
+2026-05-18 06:25:35 | INFO | MOS | FUNCTION 7: generate_salary_chart()
+2026-05-18 06:25:35 | INFO | MOS | ========================
+2026-05-18 06:27:33 | INFO | MOS | === RUN START ===
+2026-05-18 06:27:33 | INFO | MOS | project=MOS MAPPER
+2026-05-18 06:27:33 | INFO | MOS | repo_dir=Automation-
+2026-05-18 06:27:33 | INFO | MOS | python=3.14.5
+2026-05-18 06:27:33 | INFO | MOS | os=Windows 11
+2026-05-18 06:27:33 | INFO | MOS | shell=powershell
+2026-05-18 06:27:33 | INFO | MOS | cwd=.
+2026-05-18 06:27:33 | INFO | MOS | github_actions=False
+2026-05-18 06:27:33 | INFO | MOS | ========================
+2026-05-18 06:27:33 | INFO | MOS | START main()
+2026-05-18 06:27:33 | INFO | MOS | ========================
+2026-05-18 06:27:33 | INFO | MOS | ========================
+2026-05-18 06:27:33 | INFO | MOS | FUNCTION 1: generate_mos_reports()
+2026-05-18 06:27:33 | INFO | MOS | ========================
+2026-05-18 06:27:33 | INFO | MOS | Wrote file: mos_92F.txt
+2026-05-18 06:27:33 | INFO | MOS | Wrote file: mos_42A.txt
+2026-05-18 06:27:33 | INFO | MOS | Wrote file: mos_25B.txt
+2026-05-18 06:27:33 | INFO | MOS | Wrote file: mos_68W.txt
+2026-05-18 06:27:33 | INFO | MOS | Wrote file: mos_36B.txt
+2026-05-18 06:27:33 | INFO | MOS | ========================
+2026-05-18 06:27:33 | INFO | MOS | FUNCTION 2: generate_salary_summary()
+2026-05-18 06:27:33 | INFO | MOS | ========================
+2026-05-18 06:27:33 | INFO | MOS | Wrote file: mos_salary_summary.txt
+2026-05-18 06:27:33 | INFO | MOS | ========================
+2026-05-18 06:27:33 | INFO | MOS | FUNCTION 3: generate_skill_summary()
+2026-05-18 06:27:33 | INFO | MOS | ========================
+2026-05-18 06:27:33 | INFO | MOS | Wrote file: mos_skill_summary.txt
+2026-05-18 06:27:33 | INFO | MOS | ========================
+2026-05-18 06:27:33 | INFO | MOS | FUNCTION 4: generate_job_summary()
+2026-05-18 06:27:33 | INFO | MOS | ========================
+2026-05-18 06:27:33 | INFO | MOS | Wrote file: mos_job_summary.txt
+2026-05-18 06:27:33 | INFO | MOS | ========================
+2026-05-18 06:27:33 | INFO | MOS | FUNCTION 7: generate_salary_chart()
+2026-05-18 06:27:33 | INFO | MOS | ========================
+2026-05-18 06:27:48 | INFO | MOS | Wrote chart: mos_salary_chart.png
+2026-05-18 06:27:48 | INFO | MOS | ========================
+2026-05-18 06:27:48 | INFO | MOS | Executed successfully!
+2026-05-18 06:27:48 | INFO | MOS | ========================
+2026-05-18 06:30:58 | INFO | MOS | === RUN START ===
+2026-05-18 06:30:58 | INFO | MOS | project=MOS MAPPER
+2026-05-18 06:30:58 | INFO | MOS | repo_dir=Automation-
+2026-05-18 06:30:58 | INFO | MOS | python=3.14.5
+2026-05-18 06:30:58 | INFO | MOS | os=Windows 11
+2026-05-18 06:30:58 | INFO | MOS | shell=powershell
+2026-05-18 06:30:58 | INFO | MOS | cwd=.
+2026-05-18 06:30:58 | INFO | MOS | github_actions=False
+2026-05-18 06:30:58 | INFO | MOS | ========================
+2026-05-18 06:30:58 | INFO | MOS | START main()
+2026-05-18 06:30:58 | INFO | MOS | ========================
+2026-05-18 06:30:58 | INFO | MOS | ========================
+2026-05-18 06:30:58 | INFO | MOS | FUNCTION 1: generate_mos_reports()
+2026-05-18 06:30:58 | INFO | MOS | ========================
+2026-05-18 06:30:58 | INFO | MOS | Wrote file: mos_92F.txt
+2026-05-18 06:30:58 | INFO | MOS | Wrote file: mos_42A.txt
+2026-05-18 06:30:58 | INFO | MOS | Wrote file: mos_25B.txt
+2026-05-18 06:30:58 | INFO | MOS | Wrote file: mos_68W.txt
+2026-05-18 06:30:58 | INFO | MOS | Wrote file: mos_36B.txt
+2026-05-18 06:30:58 | INFO | MOS | ========================
+2026-05-18 06:30:58 | INFO | MOS | FUNCTION 2: generate_salary_summary()
+2026-05-18 06:30:58 | INFO | MOS | ========================
+2026-05-18 06:30:58 | INFO | MOS | Wrote file: mos_salary_summary.txt
+2026-05-18 06:30:58 | INFO | MOS | ========================
+2026-05-18 06:30:58 | INFO | MOS | FUNCTION 3: generate_skill_summary()
+2026-05-18 06:30:58 | INFO | MOS | ========================
+2026-05-18 06:30:58 | INFO | MOS | Wrote file: mos_skill_summary.txt
+2026-05-18 06:30:58 | INFO | MOS | ========================
+2026-05-18 06:30:58 | INFO | MOS | FUNCTION 4: generate_job_summary()
+2026-05-18 06:30:58 | INFO | MOS | ========================
+2026-05-18 06:30:58 | INFO | MOS | Wrote file: mos_job_summary.txt
+2026-05-18 06:30:58 | INFO | MOS | ========================
+2026-05-18 06:30:58 | INFO | MOS | FUNCTION 7: generate_salary_chart()
+2026-05-18 06:30:58 | INFO | MOS | ========================
+2026-05-18 06:31:00 | INFO | MOS | Wrote chart: mos_salary_chart.png
+2026-05-18 06:31:00 | INFO | MOS | ========================
+2026-05-18 06:31:00 | INFO | MOS | FUNCTION 8: generate_skill_chart()
+2026-05-18 06:31:00 | INFO | MOS | ========================
+2026-05-18 06:31:01 | INFO | MOS | Wrote chart: mos_skill_chart.png
+2026-05-18 06:31:01 | INFO | MOS | ========================
+2026-05-18 06:31:01 | INFO | MOS | Executed successfully!
+2026-05-18 06:31:01 | INFO | MOS | ========================
+2026-05-18 06:34:24 | INFO | MOS | === RUN START ===
+2026-05-18 06:34:24 | INFO | MOS | project=MOS MAPPER
+2026-05-18 06:34:24 | INFO | MOS | repo_dir=Automation-
+2026-05-18 06:34:24 | INFO | MOS | python=3.14.5
+2026-05-18 06:34:24 | INFO | MOS | os=Windows 11
+2026-05-18 06:34:24 | INFO | MOS | shell=powershell
+2026-05-18 06:34:24 | INFO | MOS | cwd=.
+2026-05-18 06:34:24 | INFO | MOS | github_actions=False
+2026-05-18 06:34:24 | INFO | MOS | ========================
+2026-05-18 06:34:24 | INFO | MOS | START main()
+2026-05-18 06:34:24 | INFO | MOS | ========================
+2026-05-18 06:34:24 | INFO | MOS | ========================
+2026-05-18 06:34:24 | INFO | MOS | FUNCTION 1: generate_mos_reports()
+2026-05-18 06:34:24 | INFO | MOS | ========================
+2026-05-18 06:34:24 | INFO | MOS | Wrote file: mos_92F.txt
+2026-05-18 06:34:24 | INFO | MOS | Wrote file: mos_42A.txt
+2026-05-18 06:34:24 | INFO | MOS | Wrote file: mos_25B.txt
+2026-05-18 06:34:24 | INFO | MOS | Wrote file: mos_68W.txt
+2026-05-18 06:34:24 | INFO | MOS | Wrote file: mos_36B.txt
+2026-05-18 06:34:24 | INFO | MOS | ========================
+2026-05-18 06:34:24 | INFO | MOS | FUNCTION 2: generate_salary_summary()
+2026-05-18 06:34:24 | INFO | MOS | ========================
+2026-05-18 06:34:24 | INFO | MOS | Wrote file: mos_salary_summary.txt
+2026-05-18 06:34:24 | INFO | MOS | ========================
+2026-05-18 06:34:24 | INFO | MOS | FUNCTION 3: generate_skill_summary()
+2026-05-18 06:34:24 | INFO | MOS | ========================
+2026-05-18 06:34:24 | INFO | MOS | Wrote file: mos_skill_summary.txt
+2026-05-18 06:34:24 | INFO | MOS | ========================
+2026-05-18 06:34:24 | INFO | MOS | FUNCTION 4: generate_job_summary()
+2026-05-18 06:34:24 | INFO | MOS | ========================
+2026-05-18 06:34:24 | INFO | MOS | Wrote file: mos_job_summary.txt
+2026-05-18 06:34:24 | INFO | MOS | ========================
+2026-05-18 06:34:24 | INFO | MOS | FUNCTION 7: generate_salary_chart()
+2026-05-18 06:34:24 | INFO | MOS | ========================
+2026-05-18 06:34:26 | INFO | MOS | Wrote chart: mos_salary_chart.png
+2026-05-18 06:34:26 | INFO | MOS | ========================
+2026-05-18 06:34:26 | INFO | MOS | FUNCTION 8: generate_skill_chart()
+2026-05-18 06:34:26 | INFO | MOS | ========================
+2026-05-18 06:34:27 | INFO | MOS | Wrote chart: mos_skill_chart.png
+2026-05-18 06:34:27 | INFO | MOS | ========================
+2026-05-18 06:34:27 | INFO | MOS | Executed successfully!
+2026-05-18 06:34:27 | INFO | MOS | ========================
+2026-05-18 06:46:13 | INFO | MOS | === RUN START ===
+2026-05-18 06:46:13 | INFO | MOS | project=MOS MAPPER
+2026-05-18 06:46:13 | INFO | MOS | repo_dir=Automation-
+2026-05-18 06:46:13 | INFO | MOS | python=3.14.5
+2026-05-18 06:46:13 | INFO | MOS | os=Windows 11
+2026-05-18 06:46:13 | INFO | MOS | shell=powershell
+2026-05-18 06:46:13 | INFO | MOS | cwd=.
+2026-05-18 06:46:13 | INFO | MOS | github_actions=False
+2026-05-18 06:46:13 | INFO | MOS | ========================
+2026-05-18 06:46:13 | INFO | MOS | START main()
+2026-05-18 06:46:13 | INFO | MOS | ========================
+2026-05-18 06:46:13 | INFO | MOS | ========================
+2026-05-18 06:46:13 | INFO | MOS | FUNCTION 1: generate_mos_reports()
+2026-05-18 06:46:13 | INFO | MOS | ========================
+2026-05-18 06:46:13 | INFO | MOS | Wrote file: mos_92F.txt
+2026-05-18 06:46:13 | INFO | MOS | Wrote file: mos_42A.txt
+2026-05-18 06:46:13 | INFO | MOS | Wrote file: mos_25B.txt
+2026-05-18 06:46:13 | INFO | MOS | Wrote file: mos_68W.txt
+2026-05-18 06:46:13 | INFO | MOS | Wrote file: mos_36B.txt
+2026-05-18 06:46:13 | INFO | MOS | ========================
+2026-05-18 06:46:13 | INFO | MOS | FUNCTION 2: generate_salary_summary()
+2026-05-18 06:46:13 | INFO | MOS | ========================
+2026-05-18 06:46:13 | INFO | MOS | Wrote file: mos_salary_summary.txt
+2026-05-18 06:46:13 | INFO | MOS | ========================
+2026-05-18 06:46:13 | INFO | MOS | FUNCTION 3: generate_skill_summary()
+2026-05-18 06:46:13 | INFO | MOS | ========================
+2026-05-18 06:46:13 | INFO | MOS | Wrote file: mos_skill_summary.txt
+2026-05-18 06:46:13 | INFO | MOS | ========================
+2026-05-18 06:46:13 | INFO | MOS | FUNCTION 4: generate_job_summary()
+2026-05-18 06:46:13 | INFO | MOS | ========================
+2026-05-18 06:46:13 | INFO | MOS | Wrote file: mos_job_summary.txt
+2026-05-18 06:46:13 | INFO | MOS | ========================
+2026-05-18 06:46:13 | INFO | MOS | FUNCTION 5: generate_salary_chart()
+2026-05-18 06:46:13 | INFO | MOS | ========================
+2026-05-18 06:46:15 | INFO | MOS | Wrote chart: mos_salary_chart.png
+2026-05-18 06:46:15 | INFO | MOS | ========================
+2026-05-18 06:46:15 | INFO | MOS | FUNCTION 6: generate_skill_chart()
+2026-05-18 06:46:15 | INFO | MOS | ========================
+2026-05-18 06:46:15 | INFO | MOS | Wrote chart: mos_skill_chart.png
+2026-05-18 06:46:15 | INFO | MOS | ========================
+2026-05-18 06:46:15 | INFO | MOS | FUNCTION 7: generate_job_chart()
+2026-05-18 06:46:15 | INFO | MOS | ========================
+2026-05-18 06:46:16 | INFO | MOS | Wrote chart: mos_job_chart.png
+2026-05-18 06:46:16 | INFO | MOS | ========================
+2026-05-18 06:46:16 | INFO | MOS | Executed successfully!
+2026-05-18 06:46:16 | INFO | MOS | ========================
+2026-05-18 06:55:20 | INFO | MOS | === RUN START ===
+2026-05-18 06:55:20 | INFO | MOS | project=MOS MAPPER
+2026-05-18 06:55:20 | INFO | MOS | repo_dir=Automation-
+2026-05-18 06:55:20 | INFO | MOS | python=3.14.5
+2026-05-18 06:55:20 | INFO | MOS | os=Windows 11
+2026-05-18 06:55:20 | INFO | MOS | shell=powershell
+2026-05-18 06:55:20 | INFO | MOS | cwd=.
+2026-05-18 06:55:20 | INFO | MOS | github_actions=False
+2026-05-18 06:55:20 | INFO | MOS | ========================
+2026-05-18 06:55:20 | INFO | MOS | START main()
+2026-05-18 06:55:20 | INFO | MOS | ========================
+2026-05-18 06:55:20 | INFO | MOS | ========================
+2026-05-18 06:55:20 | INFO | MOS | FUNCTION 1: generate_mos_reports()
+2026-05-18 06:55:20 | INFO | MOS | ========================
+2026-05-18 06:55:20 | INFO | MOS | Wrote file: mos_92F.txt
+2026-05-18 06:55:20 | INFO | MOS | Wrote file: mos_42A.txt
+2026-05-18 06:55:20 | INFO | MOS | Wrote file: mos_25B.txt
+2026-05-18 06:55:20 | INFO | MOS | Wrote file: mos_68W.txt
+2026-05-18 06:55:20 | INFO | MOS | Wrote file: mos_36B.txt
+2026-05-18 06:55:20 | INFO | MOS | ========================
+2026-05-18 06:55:20 | INFO | MOS | FUNCTION 2: generate_salary_summary()
+2026-05-18 06:55:20 | INFO | MOS | ========================
+2026-05-18 06:55:20 | INFO | MOS | Wrote file: mos_salary_summary.txt
+2026-05-18 06:55:20 | INFO | MOS | ========================
+2026-05-18 06:55:20 | INFO | MOS | FUNCTION 3: generate_skill_summary()
+2026-05-18 06:55:20 | INFO | MOS | ========================
+2026-05-18 06:55:20 | INFO | MOS | Wrote file: mos_skill_summary.txt
+2026-05-18 06:55:20 | INFO | MOS | ========================
+2026-05-18 06:55:20 | INFO | MOS | FUNCTION 4: generate_job_summary()
+2026-05-18 06:55:20 | INFO | MOS | ========================
+2026-05-18 06:55:20 | INFO | MOS | Wrote file: mos_job_summary.txt
+2026-05-18 06:55:20 | INFO | MOS | ========================
+2026-05-18 06:55:20 | INFO | MOS | FUNCTION 5: generate_salary_chart()
+2026-05-18 06:55:20 | INFO | MOS | ========================
+2026-05-18 06:55:22 | INFO | MOS | Wrote chart: mos_salary_chart.png
+2026-05-18 06:55:22 | INFO | MOS | ========================
+2026-05-18 06:55:22 | INFO | MOS | FUNCTION 6: generate_skill_chart()
+2026-05-18 06:55:22 | INFO | MOS | ========================
+2026-05-18 06:55:22 | INFO | MOS | Wrote chart: mos_skill_chart.png
+2026-05-18 06:55:22 | INFO | MOS | ========================
+2026-05-18 06:55:22 | INFO | MOS | FUNCTION 7: generate_job_chart()
+2026-05-18 06:55:22 | INFO | MOS | ========================
+2026-05-18 06:55:22 | INFO | MOS | Wrote chart: mos_job_chart.png
+2026-05-18 06:55:22 | INFO | MOS | ========================
+2026-05-18 06:55:22 | INFO | MOS | FUNCTION 8: generate_salary_pie_chart()
+2026-05-18 06:55:22 | INFO | MOS | ========================
+2026-05-18 06:55:23 | INFO | MOS | Wrote chart: mos_salary_pie_chart.png
+2026-05-18 06:55:23 | INFO | MOS | ========================
+2026-05-18 06:55:23 | INFO | MOS | FUNCTION 9: generate_skill_pie_chart()
+2026-05-18 06:55:23 | INFO | MOS | ========================
+2026-05-18 06:55:23 | INFO | MOS | Wrote chart: mos_skill_pie_chart.png
+2026-05-18 06:55:23 | INFO | MOS | ========================
+2026-05-18 06:55:23 | INFO | MOS | FUNCTION 10: generate_job_pie_chart()
+2026-05-18 06:55:23 | INFO | MOS | ========================
+2026-05-18 06:55:23 | INFO | MOS | Wrote chart: mos_job_pie_chart.png
+2026-05-18 06:55:23 | INFO | MOS | ========================
+2026-05-18 06:55:23 | INFO | MOS | Executed successfully!
+2026-05-18 06:55:23 | INFO | MOS | ========================
+2026-05-18 11:36:33 | INFO | MOS | === RUN START ===
+2026-05-18 11:36:33 | INFO | MOS | project=MOS MAPPER
+2026-05-18 11:36:33 | INFO | MOS | repo_dir=Automation-
+2026-05-18 11:36:33 | INFO | MOS | python=3.14.5
+2026-05-18 11:36:33 | INFO | MOS | os=Windows 11
+2026-05-18 11:36:33 | INFO | MOS | shell=powershell
+2026-05-18 11:36:33 | INFO | MOS | cwd=.
+2026-05-18 11:36:33 | INFO | MOS | github_actions=False
+2026-05-18 11:36:33 | INFO | MOS | START main()
+2026-05-18 11:36:33 | INFO | MOS | FUNCTION 1: generate_mos_reports()
+2026-05-18 11:36:33 | INFO | MOS | Wrote file: mos_92F.txt
+2026-05-18 11:36:33 | INFO | MOS | Wrote file: mos_42A.txt
+2026-05-18 11:36:33 | INFO | MOS | Wrote file: mos_25B.txt
+2026-05-18 11:36:33 | INFO | MOS | Wrote file: mos_68W.txt
+2026-05-18 11:36:33 | INFO | MOS | Wrote file: mos_36B.txt
+2026-05-18 11:36:33 | INFO | MOS | FUNCTION 2: generate_salary_summary()
+2026-05-18 11:36:33 | INFO | MOS | Wrote file: mos_salary_summary.txt
+2026-05-18 11:36:33 | INFO | MOS | FUNCTION 3: generate_skill_summary()
+2026-05-18 11:36:33 | INFO | MOS | Wrote file: mos_skill_summary.txt
+2026-05-18 11:36:33 | INFO | MOS | FUNCTION 4: generate_job_summary()
+2026-05-18 11:36:33 | INFO | MOS | Wrote file: mos_job_summary.txt
+2026-05-18 11:36:33 | INFO | MOS | FUNCTION 5: generate_salary_chart()
+2026-05-18 11:36:34 | INFO | MOS | Wrote chart: mos_salary_chart.png
+2026-05-18 11:36:34 | INFO | MOS | FUNCTION 6: generate_skill_chart()
+2026-05-18 11:36:34 | INFO | MOS | Wrote chart: mos_skill_chart.png
+2026-05-18 11:36:34 | INFO | MOS | FUNCTION 7: generate_job_chart()
+2026-05-18 11:36:34 | INFO | MOS | Wrote chart: mos_job_chart.png
+2026-05-18 11:36:34 | INFO | MOS | FUNCTION 8: generate_salary_pie_chart()
+2026-05-18 11:36:34 | INFO | MOS | Wrote chart: mos_salary_pie_chart.png
+2026-05-18 11:36:34 | INFO | MOS | FUNCTION 9: generate_skill_pie_chart()
+2026-05-18 11:36:35 | INFO | MOS | Wrote chart: mos_skill_pie_chart.png
+2026-05-18 11:36:35 | INFO | MOS | FUNCTION 10: generate_job_pie_chart()
+2026-05-18 11:36:35 | INFO | MOS | Wrote chart: mos_job_pie_chart.png
+2026-05-18 11:36:35 | INFO | MOS | Executed successfully!
+2026-05-18 11:51:45 | INFO | MOS | === RUN START ===
+2026-05-18 11:51:45 | INFO | MOS | project=MOS MAPPER
+2026-05-18 11:51:45 | INFO | MOS | repo_dir=Automation-
+2026-05-18 11:51:45 | INFO | MOS | python=3.14.5
+2026-05-18 11:51:45 | INFO | MOS | os=Windows 11
+2026-05-18 11:51:45 | INFO | MOS | shell=powershell
+2026-05-18 11:51:45 | INFO | MOS | cwd=.
+2026-05-18 11:51:45 | INFO | MOS | github_actions=False
+2026-05-18 11:51:45 | INFO | MOS | START main()
+2026-05-18 11:51:45 | INFO | MOS | FUNCTION 1: generate_mos_reports()
+2026-05-18 11:51:45 | INFO | MOS | Wrote file: mos_92F.txt
+2026-05-18 11:51:45 | INFO | MOS | Wrote file: mos_42A.txt
+2026-05-18 11:51:45 | INFO | MOS | Wrote file: mos_25B.txt
+2026-05-18 11:51:45 | INFO | MOS | Wrote file: mos_68W.txt
+2026-05-18 11:51:45 | INFO | MOS | Wrote file: mos_36B.txt
+2026-05-18 11:51:45 | INFO | MOS | FUNCTION 2: generate_salary_summary()
+2026-05-18 11:51:45 | INFO | MOS | Wrote file: mos_salary_summary.txt
+2026-05-18 11:51:45 | INFO | MOS | FUNCTION 3: generate_skill_summary()
+2026-05-18 11:51:45 | INFO | MOS | Wrote file: mos_skill_summary.txt
+2026-05-18 11:51:45 | INFO | MOS | FUNCTION 4: generate_job_summary()
+2026-05-18 11:51:45 | INFO | MOS | Wrote file: mos_job_summary.txt
+2026-05-18 11:51:45 | INFO | MOS | FUNCTION 5: generate_salary_chart()
+2026-05-18 11:51:46 | INFO | MOS | Wrote chart: mos_salary_chart.png
+2026-05-18 11:51:46 | INFO | MOS | FUNCTION 6: generate_skill_chart()
+2026-05-18 11:51:46 | INFO | MOS | Wrote chart: mos_skill_chart.png
+2026-05-18 11:51:46 | INFO | MOS | FUNCTION 7: generate_job_chart()
+2026-05-18 11:51:46 | INFO | MOS | Wrote chart: mos_job_chart.png
+2026-05-18 11:51:46 | INFO | MOS | FUNCTION 8: generate_salary_pie_chart()
+2026-05-18 11:51:47 | INFO | MOS | Wrote chart: mos_salary_pie_chart.png
+2026-05-18 11:51:47 | INFO | MOS | FUNCTION 9: generate_skill_pie_chart()
+2026-05-18 11:51:47 | INFO | MOS | Wrote chart: mos_skill_pie_chart.png
+2026-05-18 11:51:47 | INFO | MOS | FUNCTION 10: generate_job_pie_chart()
+2026-05-18 11:51:47 | INFO | MOS | Wrote chart: mos_job_pie_chart.png
+2026-05-18 11:51:47 | INFO | MOS | Executed successfully!
+2026-05-18 12:28:13 | INFO | MOS | === RUN START ===
+2026-05-18 12:28:13 | INFO | MOS | project=MOS MAPPER
+2026-05-18 12:28:13 | INFO | MOS | repo_dir=Automation-
+2026-05-18 12:28:13 | INFO | MOS | python=3.14.5
+2026-05-18 12:28:14 | INFO | MOS | os=Windows 11
+2026-05-18 12:28:14 | INFO | MOS | shell=powershell
+2026-05-18 12:28:14 | INFO | MOS | cwd=.
+2026-05-18 12:28:14 | INFO | MOS | github_actions=False
+2026-05-18 12:28:14 | INFO | MOS | START main()
+2026-05-18 12:28:14 | INFO | MOS | FUNCTION 1: generate_mos_reports()
+2026-05-18 12:28:14 | INFO | MOS | Wrote file: mos_92F.txt
+2026-05-18 12:28:14 | INFO | MOS | Wrote file: mos_42A.txt
+2026-05-18 12:28:14 | INFO | MOS | Wrote file: mos_25B.txt
+2026-05-18 12:28:14 | INFO | MOS | Wrote file: mos_68W.txt
+2026-05-18 12:28:14 | INFO | MOS | Wrote file: mos_36B.txt
+2026-05-18 12:28:14 | INFO | MOS | FUNCTION 2: generate_salary_summary()
+2026-05-18 12:28:14 | INFO | MOS | Wrote file: mos_salary_summary.txt
+2026-05-18 12:28:14 | INFO | MOS | FUNCTION 3: generate_skill_summary()
+2026-05-18 12:28:14 | INFO | MOS | Wrote file: mos_skill_summary.txt
+2026-05-18 12:28:14 | INFO | MOS | FUNCTION 4: generate_job_summary()
+2026-05-18 12:28:14 | INFO | MOS | Wrote file: mos_job_summary.txt
+2026-05-18 12:28:14 | INFO | MOS | FUNCTION 5: generate_salary_chart()
+2026-05-18 12:28:14 | INFO | MOS | Wrote chart: mos_salary_chart.png
+2026-05-18 12:28:14 | INFO | MOS | FUNCTION 6: generate_skill_chart()
+2026-05-18 12:28:15 | INFO | MOS | Wrote chart: mos_skill_chart.png
+2026-05-18 12:28:15 | INFO | MOS | FUNCTION 7: generate_job_chart()
+2026-05-18 12:28:15 | INFO | MOS | Wrote chart: mos_job_chart.png
+2026-05-18 12:28:15 | INFO | MOS | FUNCTION 8: generate_salary_pie_chart()
+2026-05-18 12:28:15 | INFO | MOS | Wrote chart: mos_salary_pie_chart.png
+2026-05-18 12:28:15 | INFO | MOS | FUNCTION 9: generate_skill_pie_chart()
+2026-05-18 12:28:15 | INFO | MOS | Wrote chart: mos_skill_pie_chart.png
+2026-05-18 12:28:15 | INFO | MOS | FUNCTION 10: generate_job_pie_chart()
+2026-05-18 12:28:16 | INFO | MOS | Wrote chart: mos_job_pie_chart.png
+2026-05-18 12:28:16 | INFO | MOS | Executed successfully!
